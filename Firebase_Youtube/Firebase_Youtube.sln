@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31424.327
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Firebase_Youtube", "Firebase_Youtube\Firebase_Youtube.csproj", "{D9DAF82D-F47F-45DE-9910-6C5FB12D17E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D9DAF82D-F47F-45DE-9910-6C5FB12D17E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D9DAF82D-F47F-45DE-9910-6C5FB12D17E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D9DAF82D-F47F-45DE-9910-6C5FB12D17E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D9DAF82D-F47F-45DE-9910-6C5FB12D17E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6450A8A5-F6A4-4E2E-80D4-15E803E13FE5}
+	EndGlobalSection
+EndGlobal
